@@ -1,4 +1,22 @@
-### Hey, I'm Bilal Saeed! 👋
+## Slam, I'm [Bilal Saeed!](https://facebook.com/bilalsaeedjh) 👋
+
+<p align="left"> <img src="t.ly/4Zm8" alt="Bilal Saeed" /> </p>
+
+<a href="https://github.com/bilalsaeedjh">
+  <img align="left" alt="Bilal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/bilalsaeedjh/">
+  <img align="left" alt="Bilal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/bilalsaeedjh/">
+  <img align="left" alt="Bilal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://stackoverflow.com/users/13283931">
+  <img align="left" alt="Bilal's StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
+<br/>
+<br/>
 
 - 🔭 I’m currently working on Food_Ordering_App.
 - 🌱 I’m currently learning Flutter Framework.
@@ -8,5 +26,10 @@
 - 📫 How to reach me: [Youtube](shorturl.at/iDFHI)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours playing Sports (Football,MartialArts,withMyKids).
+
+
+
+
+
 
 
