@@ -1,6 +1,6 @@
-## Slam, I'm [Bilal Saeed!](https://facebook.com/bilalsaeedjh) 👋
+## Slam, I'm [Bilal Saeed!](https://www.facebook.com/bilal.saeedddd/) 👋
 
-<p align="left"> <img src="t.ly/4Zm8" alt="Bilal Saeed" /> </p>
+<p align="left"> <img src="t.ly/cga0" alt="Bilal Saeed" /> </p>
 
 <a href="https://github.com/bilalsaeedjh">
   <img align="left" alt="Bilal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -16,8 +16,6 @@
 </a>
 
 <br/>
-<br/>
-
 - 🔭 I’m currently working on Food_Ordering_App.
 - 🌱 I’m currently learning Flutter Framework.
 - 👯 I’m looking to work with team projects.
