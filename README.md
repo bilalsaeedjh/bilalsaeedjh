@@ -1,6 +1,5 @@
 ## Slam, I'm [Bilal Saeed!](https://www.facebook.com/bilal.saeedddd/) 👋
 
-<p align="left"> <img src="t.ly/cga0" alt="Bilal Saeed" /> </p>
 
 <a href="https://github.com/bilalsaeedjh">
   <img align="left" alt="Bilal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
