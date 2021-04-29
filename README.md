@@ -15,14 +15,13 @@
 </a>
 
 <br/>
-- 🔭 I’m currently working on Food_Ordering_App.<br/>
-- 🌱 I’m currently learning Flutter Framework.<br/>
-- 👯 I’m looking to work with team projects.<br/>
+- 🔭 I’m currently working on Local_Services_Ordering_App.<br/>
+- 🌱 I’m currently looking for remote job.<br/>
 - 🤔 I’m looking for help with Intermediate to advance in Flutter.<br/>
 - 💬 Ask me about Flutter (beginnier to advance stuff).<br/>
 - 📫 How to reach me: [Youtube](shorturl.at/iDFHI)<br/>
 - 😄 Pronouns: He/His <br/>
-- ⚡ Fun fact: I spend almost 12 hours playing Sports (Football,MartialArts,withMyKids).<br/>
+- ⚡ Fun fact: I spend almost 8 hours playing Sports (Football,MartialArts,withMyKids).<br/>
 
 
 
