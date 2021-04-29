@@ -19,9 +19,9 @@
 - 🌱 I’m currently looking for remote job.<br/>
 - 🤔 I’m looking for help with Intermediate to advance in Flutter.<br/>
 - 💬 Ask me about Flutter (beginnier to intermediate stuff).<br/>
-- 📫 How to reach me: [Youtube](shorturl.at/iDFHI)<br/>
+- 📫 How to reach me: WhatsApp : wa.link/k0unln
 - 😄 Pronouns: He/His <br/>
-- ⚡ Fun fact: I spend almost 8 hours playing Sports (Football,MartialArts,withMyKids).<br/>
+- ⚡ Fun fact: I love my family and they are my only friends!<br/>
 
 
 
