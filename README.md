@@ -1,7 +1,7 @@
 ## Slam, We are [SkillzUPP Technologies!](https://www.facebook.com/skillzupp/) 👋
 
 
-<a href="https://github.com/bilalsaeedjh">
+<a href="https://stackoverflow.com/users/14854574/bilal-saeed">
   <img align="left" alt="Skillzupp's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
