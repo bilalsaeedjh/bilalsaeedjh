@@ -1,8 +1,8 @@
 ## Slam, I am [Bilal Saeed!](https://web.facebook.com/bilal.saeedddd) 👋
 
 
-<a href="https://stackoverflow.com/users/14854574/bilal-saeed">
-  <img align="left" alt="Skillzupp's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/bilalsaeedjh">
+  <img align="left" alt="My Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 </a>
 
 <a href="https://stackoverflow.com/users/13283931">
