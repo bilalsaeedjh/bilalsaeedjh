@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://stackoverflow.com/users/13283931">
-  <img align="left" alt="My StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="My StackOverFlow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/bilal-saeed-417644234/">
   <img align="left" alt="My LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
