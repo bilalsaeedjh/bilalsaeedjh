@@ -3,10 +3,37 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/learning-firebase-2d636.appspot.com/o/animated_medium20200926-15073-o9oyil.gif?alt=media&token=87ea35f6-273b-4637-b36b-7be0c60d7783" alt="Hi, I'm Bilal Saeed 👋 I'm a 🚀 Pakistani developer 🚀 I ❤️ my Family ❤️">
 </p>
 
-
-<a href="https://github.com/bilalsaeedjh">
-  <img align="left" alt="My Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+<div align="center">
+<p align="center">Let's connect!</p>
+<a href="https://www.twitter.com/waqad_arshad/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+
+<a href="https://www.instagram.com/bilalsaeedjh/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/bilal-saeed-417644234/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.fiverr.com/waqadarshad">
+    <img src="https://img.shields.io/badge/Upwork-%230077B5.svg?&style=for-the-badge&logo=fiverr&color=darkgreen&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/waqad.arshad.2/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/13283931">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+</div>
+
+<br>
+
+
+
 
 <a href="https://stackoverflow.com/users/13283931">
   <img align="left" alt="My StackOverFlow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" />
