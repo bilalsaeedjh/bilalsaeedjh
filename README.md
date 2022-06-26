@@ -19,10 +19,10 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://wa.link/7cz20o">
-    <img src="https://img.shields.io/badge/Whatsapp-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Whatsapp-%230077B5.svg?&style=for-the-badge&logo=whatsapp&color=darkgreen&logoColor=white" />
 </a>
     <a href="https://web.facebook.com/bilal.saeedddd/">
-    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&&color=darkbluelogoColor=white" />
 </a>
 
 
