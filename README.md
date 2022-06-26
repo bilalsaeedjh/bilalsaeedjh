@@ -5,11 +5,8 @@
 
 <div align="center">
 <p align="center">Let's connect!</p>
-<a href="https://www.twitter.com/waqad_arshad/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 
-<a href="https://www.instagram.com/bilalsaeedjh/>
+<a href="https://www.instagram.com/bilalsaeedjh/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -17,12 +14,8 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.fiverr.com/waqadarshad">
+<a href="https://www.upwork.com/freelancers/~01d4c15b1c11989d00">
     <img src="https://img.shields.io/badge/Upwork-%230077B5.svg?&style=for-the-badge&logo=fiverr&color=darkgreen&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/waqad.arshad.2/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <a href="https://stackoverflow.com/users/13283931">
