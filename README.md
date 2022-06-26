@@ -1,7 +1,5 @@
 ## Slam, I am [Bilal Saeed!](https://web.facebook.com/bilal.saeedddd) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/learning-firebase-2d636.appspot.com/o/animated_medium20200926-15073-o9oyil.gif?alt=media&token=87ea35f6-273b-4637-b36b-7be0c60d7783" alt="Hi, I'm Bilal Saeed 👋 I'm a 🚀 Pakistani developer 🚀 I ❤️ my Family ❤️">
-</p>
+
 
 <div align="center">
 <p align="center">Let's connect!</p>
@@ -25,17 +23,10 @@
 
 <br>
 
+###  Hybrid Platform Developer & Motivational Video Creator
 
+<img align="right" alt="GIF" src="code.gif" width="380" height="230" />
 
-
-<a href="https://stackoverflow.com/users/13283931">
-  <img align="left" alt="My StackOverFlow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" />
-</a>
-<a href="https://www.linkedin.com/in/bilal-saeed-417644234/">
-  <img align="left" alt="My LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-<br/>
-<br/>
 
 
 - 🔭 I am currently working on an Ecommerce_App.<br/>
@@ -70,18 +61,15 @@
 <code><img height="35" title="Ubuntu" src="https://camo.githubusercontent.com/c100a44b540f6bcea3f7bae169d5f75b44e8994a83deeaf2e9b7e7f9523c8bd3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7562756e74752e737667"></code> 
 
 <br/>
+<summary>📝 My GitHub Stats</summary>
+<br>
 
-<a href="https://github.com/hiennguyen92">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiennguyen92&layout=compact&theme=material-palenight" />
-</a>
+[![Bilal's github stats](https://github-readme-stats.vercel.app/api?username=waqadArshad&theme=gotham)](https://github.com/bilalsaeedjh/github-readme-stats)
 
 
-<hr/>
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=hiennguyen92&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/hiennguyen92/hiennguyen92?color=black&logo=github" />
-</p>
+
+Open Source Contributor from <b>Pakistan<b> 💚 
 
 
 [upwork]: https://www.upwork.com/freelancers/~01d4c15b1c11989d00
