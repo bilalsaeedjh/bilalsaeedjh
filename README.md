@@ -4,7 +4,7 @@
 <div align="center">
 <p align="center">Let's connect!</p>
     
-    <a href="https://stackoverflow.com/users/13283931">
+<a href="https://stackoverflow.com/users/13283931">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 <a href="https://www.upwork.com/freelancers/~01d4c15b1c11989d00">
