@@ -31,13 +31,13 @@
 
 <br>
 
-###  Hybrid Platform Developer & Motivational Video Creator
+###  Hybrid Platform Developer 
 
 <img align="right" alt="GIF" src="code.gif" width="380" height="230" />
 
 
 
-- 🔭 I am currently working on an Ecommerce_App.<br/>
+- 🔭 I am currently working on an Flutter Desktop app.<br/>
 - 🌱 I am currently looking to work with a company<br/>
 - 💬 Ask me about Flutter,Firebase, APIs.<br/>
 - 📫 How to reach me: WhatsApp : wa.link/k0unln
